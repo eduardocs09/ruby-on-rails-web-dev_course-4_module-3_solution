@@ -1,0 +1,15 @@
+.section-container{
+	padding: 20px;
+}
+
+.section-container > section{
+	background-color: rgb(173, 173, 173);
+}
+
+.section-container > section > h2{
+	text-align: center;
+}
+
+.section-container > section > p{
+	text-align: justify;
+}
